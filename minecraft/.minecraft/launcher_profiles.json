@@ -1,0 +1,29 @@
+{
+  "profiles": {
+    "j": {
+      "name": "j",
+      "lastVersionId": "b1.7.3",
+      "allowedReleaseTypes": [
+        "release",
+        "old_beta"
+      ]
+    }
+  },
+  "selectedProfile": "j",
+  "clientToken": "0cf2fcf9-d22b-4e2a-8fc9-8c19ff2c10ca",
+  "authenticationDatabase": {
+    "363b122c528f54df4a0446b6bab05515": {
+      "displayName": "j",
+      "accessToken": "247b0a2f-7adc-6439-9010-ee18974cce98",
+      "userid": "j",
+      "uuid": "363b122c-528f-54df-4a04-46b6bab05515",
+      "username": "j"
+    }
+  },
+  "selectedUser": "363b122c528f54df4a0446b6bab05515",
+  "launcherVersion": {
+    "name": "1.6.89-j",
+    "format": 21,
+    "profilesFormat": 1
+  }
+}
